@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Please Please Me (Mono Version / Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-05T09:03:58.597976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please Please Me (Mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Please_Please_Me_(Mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please Please Me (mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Please_Please_Me_(mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please Please Me (mono version)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Please_Please_Me_(mono_version)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Please Please Me [Mono]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Please_Please_Me_[Mono]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Please Please Me (mono version)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Please_Please_Me_(mono_version)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Please Please Me (Mono Version / Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Please_Please_Me_(Mono_Version___Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please Please Me [mono] (album mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Please_Please_Me_[mono]_(album_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Please Please Me (Mono)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/08_Please_Please_Me_(Mono)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Please Please Me (Mono / Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Please_Please_Me_(Mono___Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PLEASE PLEASE ME",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_PLEASE_PLEASE_ME_The_Beatles.txt"
+    }
+  ]
+}
