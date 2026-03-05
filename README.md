@@ -1,0 +1,43 @@
+# The Beatles – Please Please Me (Mono Version / Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.72] Last night I said these words to my girl
+[00:15.41] I know you never even try, girl
+[00:21.55] Come on (Come on)
+[00:23.14] Come on (Come on)
+[00:24.88] Come on (Come on)
+[00:26.35] Come on (Come on)
+[00:27.99] Please please me, whoa, yeah
+[00:31.82] Like I please you
+[00:40.32] 
+[00:35.58] You don't need me to show the way, love
+[00:39.23] Why do I always have to say love
+[00:48.88] Come on (Come on)
+[00:50.55] Come on (Come on)
+[00:52.13] Come on (Come on)
+[00:53.97] Come on (Come on)
+[00:55.47] Please please me, whoa, yeah
+[00:58.55] Like I please you
+[01:07.05] 
+[01:02.66] I don't wanna sound complainin'
+[01:06.26] But you know there's always rain in my heart (in my heart)
+[01:08.76] I do all the pleasin' with you, it's so hard to reason
+[01:11.36] With you, whoa yeah
+[01:13.22] Why do you make me blue
+[01:24.72] 
+[01:20.69] Last night I said these words to my girl
+[01:27.53] I know you never even try, girl
+[01:33.75] Come on (Come on)
+[01:34.04] Come on (Come on)
+[01:35.68] Come on (Come on)
+[01:37.43] Come on (Come on)
+[01:45.93] 
+[01:39.12] Please please me, whoa, yeah
+[01:43.54] Like I please you
+[01:45.90] (Please) me, whoa, yeah
+[01:48.08] Like I please you
+[01:49.87] (Please) me, whoa, yeah
+[01:51.92] Like I please you
+```
